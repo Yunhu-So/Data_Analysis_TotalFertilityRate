@@ -11,6 +11,7 @@ By importing several python libraries (Pandas, Matplotlib, Numpy, Scikit-learn),
 
 ### 2008 Population Pyramid
 
+
 ### 2021 Population Pyramid
 
 
@@ -21,3 +22,21 @@ One possible factor could be the increase in life expectancy caused by technolog
 To further investigate on this phenomenon, I took a look into the number of birth and total fertility rate.
 
 ## 2. South Korea's Number of Birth and Total Fertility Rate (TFR)
+
+
+As illustrated in the chart, a negative trend is found. Both the number of birth and total fertility rate have decreased. 
+
+I have considered different possible factors that might have affected such rates.
+
+## 3. Crude Birth Rate
+
+
+By looking at the graph, I noticed that people tend to not get married as time passes by. Even though they do get married, married couples decide not to bear children as shown in TFR illustartion. I was curious what might have affected such results.
+
+## 4. Private Education Expense
+
+
+## 5. Consumer Price Index
+
+Correlation
+
