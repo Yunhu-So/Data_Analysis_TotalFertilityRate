@@ -10,9 +10,10 @@ By importing several python libraries (Pandas, Matplotlib, Numpy, Scikit-learn),
 ## 1. South Korea's Population Pyramid
 
 ### 2008 Population Pyramid
+<img src="https://github.com/Yunhu-So/Data_Analysis_TotalFertilityRate/blob/main/graph/South%20Korea's%20Population%20Pyramid%20in%202008.png" width="700">
 
 ### 2021 Population Pyramid
-
+<img src="https://github.com/Yunhu-So/Data_Analysis_TotalFertilityRate/blob/main/graph/South%20Korea's%20Population%20Pyramid%20in%202021.png" width="700">
 
 I have noticed that the number of youth population had decreased while the numbers of the working-age population and elderly population had increased. 
 This indicates that the pace of population aging is fast, and it presents the possibility of an aging society. 
